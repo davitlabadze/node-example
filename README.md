@@ -1,1 +1,1 @@
-## npm i or npm istall 
+## npm i or npm install 
